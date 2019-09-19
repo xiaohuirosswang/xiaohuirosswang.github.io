@@ -6,16 +6,16 @@ category: [Golang]
 ---
 Golang 语言基础系列：
 
-- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants.html)
-- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch.html)
-- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice.html)
-- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range.html)
-- [Golang 语言基础之五： function](/golang-fundamentals-5-function.html)
-- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer.html)
-- [Golang 语言基础之七： struct, method](/2014/12/28/golang-fundamentals-7-struct-method.html)
-- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface.html)
-- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover.html)
-- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel.html)
+- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants/)
+- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch/)
+- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice/)
+- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range/)
+- [Golang 语言基础之五： function](/golang-fundamentals-5-function/)
+- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer/)
+- [Golang 语言基础之七： struct, method](/golang-fundamentals-7-struct-method/)
+- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface/)
+- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover/)
+- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel/)
 
 
 最近开始系统地学习 Golang，之前走马观花地看过 [酷壳上陈皓的介绍][8]，从一名有 C++、 C# 开发经验的程序员角度看，还是有些和思维惯性不一致的地方，后来使用 Python 开发过一段时间之后，再看 Golang，就感觉亲切多了。
@@ -175,7 +175,7 @@ vp_slice len:  0
 vp_slice capacity:  0
 {% endhighlight %}
 
-类型中的字符串 `string` 和指针 `pointer` 在 [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer.html) 中有详细介绍。
+类型中的字符串 `string` 和指针 `pointer` 在 [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer/) 中有详细介绍。
 
 类型学习资源：
 

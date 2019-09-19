@@ -7,16 +7,16 @@ category: [Golang]
 
 Golang 语言基础系列：
 
-- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants.html)
-- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch.html)
-- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice.html)
-- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range.html)
-- [Golang 语言基础之五： function](/golang-fundamentals-5-function.html)
-- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer.html)
-- [Golang 语言基础之七： struct, method](/2014/12/28/golang-fundamentals-7-struct-method.html)
-- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface.html)
-- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover.html)
-- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel.html)
+- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants/)
+- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch/)
+- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice/)
+- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range/)
+- [Golang 语言基础之五： function](/golang-fundamentals-5-function/)
+- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer/)
+- [Golang 语言基础之七： struct, method](/golang-fundamentals-7-struct-method/)
+- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface/)
+- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover/)
+- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel/)
 
 ## 数组
 
@@ -116,7 +116,7 @@ v_IntArrayOf23:  [[2 0 0] [0 0 0]]
 
 - 由于数组长度是数组类型的组成部分，所以数组长度必须在声明数组的时候就是确定的常量。
 - 数组赋值和数组进行参数传递时都会进行值拷贝，所以在参数传递时为了提高效率可以考虑使用 `slice` 或者数组指针。
-- 在 [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch.html) 的 `for` 语句例子中，我们看到了如何定义数组指针 `*[]T` 和指针的数组 `[*]T`。
+- 在 [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch/) 的 `for` 语句例子中，我们看到了如何定义数组指针 `*[]T` 和指针的数组 `[*]T`。
 - 由于数据在声明时长度已经确定，Golang也会对数组中的元素进行初始化（默认初始值为零值），所以数组对象可以直接进行 `==` 和 `!=` 的逻辑比较。
 
 ## Slice （切片）

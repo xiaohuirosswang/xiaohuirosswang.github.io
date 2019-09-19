@@ -7,16 +7,16 @@ category: [Golang]
 
 Golang 语言基础系列：
 
-- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants.html)
-- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch.html)
-- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice.html)
-- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range.html)
-- [Golang 语言基础之五： function](/golang-fundamentals-5-function.html)
-- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer.html)
-- [Golang 语言基础之七： struct, method](/2014/12/28/golang-fundamentals-7-struct-method.html)
-- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface.html)
-- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover.html)
-- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel.html)
+- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants/)
+- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch/)
+- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice/)
+- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range/)
+- [Golang 语言基础之五： function](/golang-fundamentals-5-function/)
+- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer/)
+- [Golang 语言基础之七： struct, method](/golang-fundamentals-7-struct-method/)
+- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface/)
+- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover/)
+- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel/)
 
 很多编程语言都有异常处理机制，C++、C# 和 JAVA 中有 `try{...}catch(...){...}` 和 `throw new SomeException()` 这样的语法来捕获、处理以及抛出异常，C# 和 JAVA 还支持 `try{...}catch(...){...}finally{...}` 这样的语法来保证异常发生的时候执行 `finally` 代码块中的逻辑来做些运行时清理工作。Python 里面也有类似下面的异常机制：
 

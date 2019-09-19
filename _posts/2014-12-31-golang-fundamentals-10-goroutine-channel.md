@@ -7,16 +7,16 @@ category: [Golang]
 
 Golang 语言基础系列：
 
-- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants.html)
-- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch.html)
-- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice.html)
-- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range.html)
-- [Golang 语言基础之五： function](/golang-fundamentals-5-function.html)
-- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer.html)
-- [Golang 语言基础之七： struct, method](/2014/12/28/golang-fundamentals-7-struct-method.html)
-- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface.html)
-- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover.html)
-- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel.html)
+- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants/)
+- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch/)
+- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice/)
+- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range/)
+- [Golang 语言基础之五： function](/golang-fundamentals-5-function/)
+- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer/)
+- [Golang 语言基础之七： struct, method](/golang-fundamentals-7-struct-method/)
+- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface/)
+- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover/)
+- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel/)
 
 Quora 上有一个问题：[What is difference between Goroutines vs OS threads?][1]，相信这是也很多学习 Golang 的程序员比如我自己关心的问题。这个问题下的这个答案说得比较清楚，其作者自称来自 Google 的 Golang Team：
 
