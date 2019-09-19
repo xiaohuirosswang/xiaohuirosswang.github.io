@@ -7,16 +7,16 @@ category: [Golang]
 
 Golang 语言基础系列：
 
-- [Golang 语言基础之一： type, variable, constant](/2014/12/22/golang-fundamentals-1-types-variables-constants.html)
-- [Golang 语言基础之二： for, ifelse, switch](/2014/12/23/golang-fundamentals-2-for-ifelse-switch.html)
-- [Golang 语言基础之三： array, slice](/2014/12/23/golang-fundamentals-3-array-slice.html)
-- [Golang 语言基础之四： map, range](/2014/12/25/golang-fundamentals-4-map-range.html)
-- [Golang 语言基础之五： function](/2014/12/26/golang-fundamentals-5-function.html)
-- [Golang 语言基础之六： string, pointer](/2014/12/27/golang-fundamentals-6-string-pointer.html)
+- [Golang 语言基础之一： type, variable, constant](/golang-fundamentals-1-types-variables-constants.html)
+- [Golang 语言基础之二： for, ifelse, switch](/golang-fundamentals-2-for-ifelse-switch.html)
+- [Golang 语言基础之三： array, slice](/golang-fundamentals-3-array-slice.html)
+- [Golang 语言基础之四： map, range](/golang-fundamentals-4-map-range.html)
+- [Golang 语言基础之五： function](/golang-fundamentals-5-function.html)
+- [Golang 语言基础之六： string, pointer](/golang-fundamentals-6-string-pointer.html)
 - [Golang 语言基础之七： struct, method](/2014/12/28/golang-fundamentals-7-struct-method.html)
-- [Golang 语言基础之八： interface](/2014/12/29/golang-fundamentals-8-interface.html)
-- [Golang 语言基础之九： error, panic, recover](/2014/12/30/golang-fundamentals-9-error-panic-recover.html)
-- [Golang 语言基础之十： goroutine, channel](/2014/12/31/golang-fundamentals-10-goroutine-channel.html)
+- [Golang 语言基础之八： interface](/golang-fundamentals-8-interface.html)
+- [Golang 语言基础之九： error, panic, recover](/golang-fundamentals-9-error-panic-recover.html)
+- [Golang 语言基础之十： goroutine, channel](/golang-fundamentals-10-goroutine-channel.html)
 
 ## Map
 
